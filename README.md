@@ -12,3 +12,23 @@ This file is generate from [Origin English Version AufenthG](https://www.gesetze
 ## Related Projects
 
 ChatGPT Private App `AufenthG-DE`
+
+## TODO
+
+add a script to fix markdown file headings skipping. 
+
+For Example,
+
+```txt
+## Chapter 1 General provisions
+
+#### Section 1 Purpose of the Act; scope
+```
+
+should be changed to
+
+```txt
+## Chapter 1 General provisions
+
+### Section 1 Purpose of the Act; scope
+```
