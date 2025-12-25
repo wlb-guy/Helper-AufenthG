@@ -12,7 +12,7 @@ with open(input_path, "r", encoding="utf-8") as f:
 
 
 pattern = re.compile(
-    r'^\s*\[[^\]]+\]\(https?://[^)\s]+\)\s*$',
+    r'^\s*\[table of contents\]\(https?://[^)\s]+\)\s*$',
     re.MULTILINE
 )
 
