@@ -8,3 +8,7 @@ This file is generate from [Origin English Version AufenthG](https://www.gesetze
 1. Select the whole content
 1. Right-Click on the web page. And then click `Copy Selection as Markdown` on the pop-out menu.
 1. Create a new file `ResidenceLawOrigin.md`, and then Ctrl+V to paste the content into it.
+
+## Related Projects
+
+ChatGPT Private App `AufenthG-DE`
