@@ -19,7 +19,6 @@ Vollzitat:
 | Mittelbare Änderung durch Art. 5 G v. 22.12.2025 I Nr. 364 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet |   |
 | Mittelbare Änderung durch Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar |   |
 
-  
 Näheres zur Standangabe finden Sie im Menü unter [Hinweise](https://www.gesetze-im-internet.de/hinweise.html#stand)  
 
 [1)](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html#FnR.f770910_01)
@@ -79,18 +78,17 @@ Richtlinie 2008/115/EG des Europäischen Parlaments und des Rates vom 16. Dezemb
 (+++ Textnachweis ab: 1.1.2005 +++)  
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:  
      Umsetzung der  
-       EGRL 40/2001     (CELEX Nr: 32001L0040)   
+       EGRL 40/2001     (CELEX Nr: 32001L0040)
        EGRL 51/2001     (CELEX Nr: 32001L0051)  
-       EGRL 55/2001     (CELEX Nr: 32001L0055)   
-       EGRL 90/2002     (CELEX Nr: 32002L0090)   
-       EGRL 86/2003     (CELEX Nr: 32003L0086)   
-       EGRL 110/2003    (CELEX Nr: 32003L0110)   
-       EGRL 109/2003    (CELEX Nr: 32003L0109)   
-       EGRL 81/2004     (CELEX Nr: 32004L0081)   
-       EGRL 83/2004     (CELEX Nr: 32004L0083)   
+       EGRL 55/2001     (CELEX Nr: 32001L0055)
+       EGRL 90/2002     (CELEX Nr: 32002L0090)
+       EGRL 86/2003     (CELEX Nr: 32003L0086)
+       EGRL 110/2003    (CELEX Nr: 32003L0110)
+       EGRL 109/2003    (CELEX Nr: 32003L0109)
+       EGRL 81/2004     (CELEX Nr: 32004L0081)
+       EGRL 83/2004     (CELEX Nr: 32004L0083)
        EGRL 114/2004    (CELEX Nr: 32004L0114) vgl. Bek. v. 25.2.2008 I 162  
-                                           
-                                                        
+
      Umsetzung der  
        EURL 36/2014     (CELEX Nr: 32014L0036)   
        EURL 66/2014     (CELEX Nr: 32014L0066)  
@@ -104,13 +102,11 @@ Richtlinie 2008/115/EG des Europäischen Parlaments und des Rates vom 16. Dezemb
                          
                                                         
   
- 
-
 Das G wurde als Artikel 1 d. G v. 30.7.2004 I 1950 (Zuwanderungsgesetz) vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es tritt gem. Art. 15 Abs. 3 dieses G am 1.1.2005 in Kraft. §§ 42, 43 Abs. 4, § 69 Abs. 2 bis 6, § 99 treten am 6.8.2004, § 75 Nr. 2 Buchst. a tritt am 1.9.2004 in Kraft.
 
 [Nichtamtliches Inhaltsverzeichnis](https://www.gesetze-im-internet.de/aufenthg_2004/index.html#BJNR195010004BJNE020067311)
 
-### Inhaltsübersicht 
+### Inhaltsübersicht
 
 Inhaltsübersicht
 
@@ -474,6 +470,7 @@ Verordnungsermächtigungen;
 | § 107 | Stadtstaatenklausel |
 
 ## Kapitel 1  
+
 Allgemeine Bestimmungen
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -621,11 +618,13 @@ der begründete Verdacht vorliegt, dass sich der Ausländer der Anordnung der Ü
 Der Ausländer ist unverzüglich dem Richter zur Entscheidung über die Anordnung der Überstellungshaft vorzuführen. Auf das Verfahren auf Anordnung von Haft zur Überstellung nach der Verordnung (EU) Nr. 604/2013 finden § 62d sowie die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend Anwendung, soweit das Verfahren in der Verordnung (EU) Nr. 604/2013 nicht abweichend geregelt ist.
 
 ## Kapitel 2  
+
 Einreise und Aufenthalt im Bundesgebiet
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
 
 ## Abschnitt 1  
+
 Allgemeines
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -1187,6 +1186,7 @@ der Verpflichtung zur Aufnahme durch die zum Wohnort bestimmte Gemeinde und zu d
 (10) § 12 Absatz 2 Satz 2 bleibt für wohnsitzbeschränkende Auflagen in besonders begründeten Einzelfällen unberührt.
 
 ## Abschnitt 2  
+
 Einreise
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -1272,6 +1272,7 @@ er die Voraussetzungen für die Einreise in das Hoheitsgebiet der Vertragspartei
 (6) Die Regelungen der Absätze 1 bis 5 gelten nicht für Personen, die nachweislich vor dem 1. Januar 2005 eingereist sind.
 
 ## Abschnitt 3  
+
 Aufenthalt zum Zweck der Ausbildung
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -1763,6 +1764,7 @@ Die Aufenthaltserlaubnis wird für bis zu neun Monate erteilt.
 (3) Die Aufenthaltserlaubnis nach den Absätzen 1 und 2 berechtigt nur zur Ausübung einer Beschäftigung von bis zu 20 Stunden je Woche und zur Ausübung von Probebeschäftigungen von bis zu insgesamt zwei Wochen. Während des Aufenthalts nach den Absätzen 1 und 2 soll in der Regel eine Aufenthaltserlaubnis zu einem anderen Aufenthaltszweck nur nach den §§ 16a, 16b oder 19c Absatz 2 oder in Fällen eines gesetzlichen Anspruchs erteilt werden.
 
 ## Abschnitt 4  
+
 Aufenthalt zum Zweck der Erwerbstätigkeit
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -2670,6 +2672,7 @@ Die Aufenthaltserlaubnis wird für die Dauer des gewährten Stipendiums erteilt,
 (6) Einem Ausländer, dem eine Aufenthaltserlaubnis zu einem anderen Zweck erteilt wird oder erteilt worden ist, kann unter Beibehaltung dieses Aufenthaltszwecks die Ausübung einer selbständigen Tätigkeit erlaubt werden, wenn die nach sonstigen Vorschriften erforderlichen Erlaubnisse erteilt wurden oder ihre Erteilung zugesagt ist.
 
 ## Abschnitt 5  
+
 Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -2683,6 +2686,7 @@ Einem Ausländer kann für die Aufnahme aus dem Ausland aus völkerrechtlichen o
 [Nichtamtliches Inhaltsverzeichnis](https://www.gesetze-im-internet.de/aufenthg_2004/index.html#BJNR195010004BJNE002505311)
 
 ### § 23 Aufenthaltsgewährung durch die obersten Landesbehörden;  
+
 Aufnahme bei besonders gelagerten politischen Interessen; Neuansiedlung von Schutzsuchenden
 
 (1) Die oberste Landesbehörde kann aus völkerrechtlichen oder humanitären Gründen oder zur Wahrung politischer Interessen der Bundesrepublik Deutschland anordnen, dass Ausländern aus bestimmten Staaten oder in sonstiger Weise bestimmten Ausländergruppen eine Aufenthaltserlaubnis erteilt wird. Die Anordnung kann unter der Maßgabe erfolgen, dass eine Verpflichtungserklärung nach § 68 abgegeben wird. Zur Wahrung der Bundeseinheitlichkeit bedarf die Anordnung des Einvernehmens mit dem Bundesministerium des Innern, für Bau und Heimat. Die Aufenthaltserlaubnis berechtigt nicht zur Erwerbstätigkeit; die Anordnung kann vorsehen, dass die zu erteilende Aufenthaltserlaubnis die Erwerbstätigkeit erlaubt oder diese nach § 4a Absatz 1 erlaubt werden kann.
@@ -2950,6 +2954,7 @@ In den Fällen des Satzes 3 finden § 9 Absatz 3 Satz 1 und § 9 Absatz 4 entspr
 (4) Im Übrigen kann einem Ausländer, der eine Aufenthaltserlaubnis nach diesem Abschnitt besitzt, eine Niederlassungserlaubnis erteilt werden, wenn die in § 9 Abs. 2 Satz 1 bezeichneten Voraussetzungen vorliegen. § 9 Abs. 2 Satz 2 bis 6 gilt entsprechend. Die Aufenthaltszeit des der Erteilung der Aufenthaltserlaubnis vorangegangenen Asylverfahrens wird abweichend von § 55 Abs. 3 des Asylgesetzes auf die Frist angerechnet. Für Kinder, die vor Vollendung des 18. Lebensjahres nach Deutschland eingereist sind, kann § 35 entsprechend angewandt werden.
 
 ## Abschnitt 6  
+
 Aufenthalt aus familiären Gründen
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -3383,6 +3388,7 @@ der Ausländer, zu dem der Familiennachzug stattfinden soll, eine Grenzübertrit
 (5) § 27 Absatz 3 Satz 2 und § 29 Absatz 2 Satz 2 Nummer 1 finden keine Anwendung.
 
 ## Abschnitt 7  
+
 Besondere Aufenthaltsrechte
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -3476,6 +3482,7 @@ sich zur Ausübung einer Beschäftigung als Saisonarbeitnehmer im Bundesgebiet a
 (4) Eine nach Absatz 1 erteilte Aufenthaltserlaubnis darf nur für höchstens zwölf Monate mit einer Nebenbestimmung nach § 34 der Beschäftigungsverordnung versehen werden. Der in Satz 1 genannte Zeitraum beginnt mit der erstmaligen Erlaubnis einer Beschäftigung bei der Erteilung der Aufenthaltserlaubnis nach Absatz 1. Nach Ablauf dieses Zeitraums berechtigt die Aufenthaltserlaubnis zur Ausübung einer Erwerbstätigkeit.
 
 ## Abschnitt 8  
+
 Beteiligung der Bundesagentur für Arbeit
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -3663,6 +3670,7 @@ Fälle, in denen ein Arbeitgeber, der Rechtspflichten in Bezug auf die Beschäft
 (3) Das Bundesministerium für Arbeit und Soziales kann der Bundesagentur für Arbeit zur Durchführung der Bestimmungen dieses Gesetzes und der hierzu erlassenen Rechtsverordnungen sowie der von der Europäischen Union erlassenen Bestimmungen über den Zugang zum Arbeitsmarkt und der zwischenstaatlichen Vereinbarungen über die Beschäftigung von Arbeitnehmern Weisungen erteilen.
 
 ## Kapitel 3  
+
 Integration
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -3828,6 +3836,7 @@ Der Integrationskurs soll durch weitere Integrationsangebote des Bundes und der 
 (3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Einzelheiten der Finanzierung der arbeits- und sozialrechtlichen Beratung, insbesondere das Nähere zur Leistungsgewährung, die Bewilligungsperiode, das Antragsverfahren, die Bedingungen und das Verfahren für die Weiterleitung der Leistung durch Träger an Dritte, die Übertragung der Umsetzung auf einen Dritten, das Nähere zur Kontrolle der Mittelverwendung und die Evaluierung zu regeln. In Bezug auf Vorintegrationsmaßnahmen und die Aufgaben nach Absatz 1 Satz 5 und 6 findet Satz 1 keine Anwendung.
 
 ## Kapitel 4  
+
 Ordnungsrechtliche Vorschriften
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -3999,11 +4008,13 @@ wenn ein Versagungsgrund nach § 5 Abs. 4 festgestellt worden ist.
 (10) Der Ausländer hat die Maßnahmen nach den Absätzen 1 und 3 bis 9 zu dulden.
 
 ## Kapitel 5  
+
 Beendigung des Aufenthalts
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
 
 ## Abschnitt 1  
+
 Begründung der Ausreisepflicht
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -4669,6 +4680,7 @@ die wesentlichen Gründe.
 (10) § 56 Absatz 5 Satz 1 findet entsprechend Anwendung.
 
 ## Abschnitt 2  
+
 Durchsetzung der Ausreisepflicht
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -5406,6 +5418,7 @@ Der Ausländer ist unverzüglich dem Richter zur Entscheidung über die Anordnun
 Zur richterlichen Entscheidung über die Anordnung von Abschiebungshaft nach § 62 und Ausreisegewahrsam nach § 62b bestellt das Gericht dem Betroffenen, der noch keinen anwaltlichen Vertreter hat, von Amts wegen für die Dauer des Verfahrens einen anwaltlichen Vertreter als Bevollmächtigten.
 
 ## Kapitel 6  
+
 Haftung und Gebühren
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -5623,11 +5636,13 @@ Soweit der Widerspruch Erfolg hat, ist die Gebühr auf die Gebühr für die vorz
 (2) Die Verjährung von Ansprüchen nach den §§ 66 und 69 wird auch unterbrochen, solange sich der Schuldner nicht im Bundesgebiet aufhält oder sein Aufenthalt im Bundesgebiet deshalb nicht festgestellt werden kann, weil er einer gesetzlichen Meldepflicht oder Anzeigepflicht nicht nachgekommen ist.
 
 ## Kapitel 7  
+
 Verfahrensvorschriften
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
 
 ## Abschnitt 1  
+
 Zuständigkeiten
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -5869,6 +5884,7 @@ durch ausländerrechtliche Maßnahmen eines Landes erhebliche Interessen eines a
 eine Ausländerbehörde einen Ausländer ausweisen will, der zu den bei konsularischen und diplomatischen Vertretungen vom Erfordernis eines Aufenthaltstitels befreiten Personen gehört.
 
 ## Abschnitt 1a  
+
 Durchbeförderung
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -5880,6 +5896,7 @@ Durchbeförderung
 Ausländische Staaten dürfen Ausländer aus ihrem Hoheitsgebiet über das Bundesgebiet in einen anderen Staat zurückführen oder aus einem anderen Staat über das Bundesgebiet wieder in ihr Hoheitsgebiet zurückübernehmen, wenn ihnen dies von den zuständigen Behörden gestattet wurde (Durchbeförderung). Die Durchbeförderung erfolgt auf der Grundlage zwischenstaatlicher Vereinbarungen und Rechtsvorschriften der Europäischen Union. Zentrale Behörde nach Artikel 4 Abs. 5 der Richtlinie 2003/110/EG ist die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde. Der durchbeförderte Ausländer hat die erforderlichen Maßnahmen im Zusammenhang mit seiner Durchbeförderung zu dulden.
 
 ## Abschnitt 2  
+
 Bundesamt für Migration und Flüchtlinge
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -5962,11 +5979,12 @@ unbeschadet des § 71 Absatz 3 Nummer 7 die Beschaffung von Heimreisedokumenten 
 
 [Nichtamtliches Inhaltsverzeichnis](https://www.gesetze-im-internet.de/aufenthg_2004/index.html#BJNR195010004BJNE008301310)
 
-### § 76 
+### § 76
 
 (weggefallen)
 
 ## Abschnitt 3  
+
 Verwaltungsverfahren
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -6668,6 +6686,7 @@ und die Erlangung der rechtlichen Voraussetzungen für die erlaubte Einreise ode
 (4) Im Ausland sind für die Maßnahmen und Feststellungen nach den Absätzen 1 und 3 die deutschen Auslandsvertretungen zuständig.
 
 ## Abschnitt 4  
+
 Datenschutz
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -7335,6 +7354,7 @@ jeweils die Gültigkeitsdauer oder die Dauer des geplanten Aufenthalts.
 (5) Die Übermittlungen nach den Absätzen 1 bis 4 können automatisiert durchgeführt werden.
 
 ## Kapitel 8  
+
 Beauftragte für Migration, Flüchtlinge und Integration
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -7408,6 +7428,7 @@ die Öffentlichkeit zu den in den Nummern 1 bis 9 genannten Aufgabenbereichen zu
 (3) Liegen der Beauftragten hinreichende Anhaltspunkte vor, dass öffentliche Stellen des Bundes Verstöße im Sinne des § 93 Nr. 3 begehen oder sonst die gesetzlichen Rechte von Ausländern nicht wahren, so kann sie eine Stellungnahme anfordern. Sie kann diese Stellungnahme mit einer eigenen Bewertung versehen und der öffentlichen und deren vorgesetzter Stelle zuleiten. Die öffentlichen Stellen des Bundes sind verpflichtet, Auskunft zu erteilen und Fragen zu beantworten. Personenbezogene Daten übermitteln die öffentlichen Stellen nur, wenn sich der Betroffene selbst mit der Bitte, in seiner Sache gegenüber der öffentlichen Stelle tätig zu werden, an die Beauftragte gewandt hat oder die Einwilligung des Ausländers anderweitig nachgewiesen ist.
 
 ## Kapitel 9  
+
 Straf- und Bußgeldvorschriften
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -7705,6 +7726,7 @@ einer Rechtsverordnung nach § 99 Absatz 1 Nummer 3a Buchstabe d, Nummer 7, 10 o
 (6) Artikel 31 Abs. 1 des Abkommens über die Rechtsstellung der Flüchtlinge bleibt unberührt.
 
 ## Kapitel 9a  
+
 Rechtsfolgen bei illegaler Beschäftigung
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
@@ -7780,6 +7802,7 @@ Ausschlüsse nach Satz 1 können bis zur nachgewiesenen Wiederherstellung der Zu
 (3) Macht ein öffentlicher Auftraggeber von der Möglichkeit nach Absatz 1 Gebrauch, gilt § 21 Absatz 2 bis 5 des Arbeitnehmer-Entsendegesetzes entsprechend.
 
 ## Kapitel 10  
+
 Verordnungsermächtigungen; Übergangs- und Schlussvorschriften
 
 [](https://www.gesetze-im-internet.de/aufenthg_2004/BJNR195010004.html)
