@@ -19,13 +19,21 @@ pattern = re.compile(
 
 input_text1 = pattern.sub(r'\n## Chapter \1 \2', input_text)
 
+# Division
+pattern = re.compile(
+    r'\Division\s+(\d+)\s*\n\s*(.+)',
+    re.IGNORECASE
+)
+
+input_text2 = pattern.sub(r'\n### Division \1 \2', input_text1)
+
 # Section
 pattern = re.compile(
     r'\nSection\s+(\d+)\s*\n\s*(.+)',
     re.IGNORECASE
 )
 
-input_text2 = pattern.sub(r'\n### Section \1 \2', input_text1)
+input_text3 = pattern.sub(r'\n#### Section \1 \2', input_text2)
 
 # Section 1[abc]
 pattern = re.compile(
@@ -33,7 +41,7 @@ pattern = re.compile(
     re.IGNORECASE
 )
 
-output_text = pattern.sub(r'\n#### Section \1 \2', input_text2)
+output_text = pattern.sub(r'\n##### Section \1 \2', input_text3)
 
 with open(out_path, "w", encoding="utf-8") as f:
     f.write(output_text)
