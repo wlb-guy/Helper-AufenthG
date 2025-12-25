@@ -32,3 +32,12 @@ should be changed to
 
 ### Section 1 Purpose of the Act; scope
 ```
+
+But,it's a little complicated, so, a tempory solution was took. The content is changed to
+
+```txt
+## Chapter 1 General provisions
+
+### (auto) Missing heading
+#### Section 1 Purpose of the Act; scope
+```
