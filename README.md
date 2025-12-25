@@ -15,7 +15,7 @@ ChatGPT Private App `AufenthG-DE`
 
 ## TODO
 
-add a script to fix markdown file headings skipping. 
+add a script to fix markdown file headings skipping.
 
 For Example,
 
