@@ -25,7 +25,15 @@ pattern = re.compile(
     re.IGNORECASE
 )
 
-output_text = pattern.sub(r'\n### Section \1 \2', input_text1)
+input_text2 = pattern.sub(r'\n### Section \1 \2', input_text1)
+
+# Section 1[abc]
+pattern = re.compile(
+    r'\nSection\s+(\d+[a-z]?)\s*\n\s*(.+)',
+    re.IGNORECASE
+)
+
+output_text = pattern.sub(r'\n#### Section \1 \2', input_text2)
 
 with open(out_path, "w", encoding="utf-8") as f:
     f.write(output_text)
