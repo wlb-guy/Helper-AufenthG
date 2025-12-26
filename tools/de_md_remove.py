@@ -9,6 +9,10 @@ input_path = "../AufenthGOrigin.md"
 out_path = "../output/AufenthG.md"
 
 def link(input_text:str):
+    """remove useless Link, like
+
+    [Nichtamtliches Inhaltsverzeichnis](https://www.gesetze-im-internet.de/aufenthg_2004/index.html#xxxx)
+    """
     pattern = re.compile(
         r'^\s*\[Nichtamtliches Inhaltsverzeichnis\]\(https?://[^)\s]+\)\s*$',
         re.MULTILINE
@@ -17,7 +21,15 @@ def link(input_text:str):
     output_text = pattern.sub('', input_text)
     return output_text
 
-def blank_list(input_text:str):
+def blank_list_num(input_text:str):
+    """remove blank lines,like
+    
+    "
+
+    1.
+
+    "
+    """
     pattern = re.compile(
         r'\n(\d+\.)\n\n',
         re.MULTILINE
@@ -26,12 +38,64 @@ def blank_list(input_text:str):
     output_text = pattern.sub(r'\n\1 ', input_text)
     return output_text
 
+def blank_list_latin(input_text:str):
+    """remove blank lines,like
+    
+    "
+
+    a)
+
+    "
+    """
+    pattern = re.compile(
+        r'\n([a-z]\))\n\n',
+        re.MULTILINE
+    )
+
+    output_text = pattern.sub(r'\n\1 ', input_text)
+    return output_text
+
+def blank_list_aa(input_text:str):
+    """remove blank lines,like
+    
+    "
+
+    aa)
+
+    "
+    """
+    pattern = re.compile(
+        r'\n(aa\))\n\n',
+        re.MULTILINE
+    )
+
+    output_text = pattern.sub(r'\n\1 ', input_text)
+    return output_text
+
+def blank_list_bb(input_text:str):
+    """remove blank lines,like
+    
+    "
+
+    bb)
+
+    "
+    """
+    pattern = re.compile(
+        r'\n(bb\))\n\n',
+        re.MULTILINE
+    )
+
+    output_text = pattern.sub(r'\n\1 ', input_text)
+    return output_text
+
+
 
 def apply_pipeline(input_text:str):
     return reduce(lambda x, fun: fun(x), pipeline, input_text)
 
 if __name__ == "__main__":
-    pipeline = [link,blank_list]
+    pipeline = [link,blank_list_num, blank_list_latin, blank_list_aa, blank_list_bb]
 
     with open(input_path, "r", encoding="utf-8") as f:
         input_text = f.read()
